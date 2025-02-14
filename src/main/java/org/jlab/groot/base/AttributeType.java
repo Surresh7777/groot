@@ -59,7 +59,7 @@ public enum AttributeType {
     AttributeType(int id, String name){
         attributeId   = id;
         attributeName = name;
-    }
+     }
     
     public int    getType(){ return attributeId; }
     public String getName() { return attributeName; }
