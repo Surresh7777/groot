@@ -70,7 +70,7 @@ public enum AttributeType {
             if (id.getName().equalsIgnoreCase(name)) 
                 return id;
         return UNDEFINED;
-    }
+      }
     
     public static AttributeType getType(Integer detId) {
         
