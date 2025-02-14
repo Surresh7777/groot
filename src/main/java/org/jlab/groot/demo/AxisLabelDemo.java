@@ -54,7 +54,7 @@ public class AxisLabelDemo {
                Thread.sleep(0);
            } catch (InterruptedException ex) {
                Logger.getLogger(AxisLabelDemo.class.getName()).log(Level.SEVERE, null, ex);
-           }
+             }
            
            h1.fill(rndm.random());
            h2.fill(rndm.random(),rndm.random());
