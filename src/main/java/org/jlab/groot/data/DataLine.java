@@ -55,7 +55,7 @@ public class DataLine {
     
     public  DataLine setArrowSizeEnd(double size){ 
         arrowSizeEnd = size; return this;
-     }
+       }
     
     public DataLine setLineColor(int color) { lineColor = color; return this;}
     public DataLine setLineStyle(int style) { lineStyle = style; return this;}
